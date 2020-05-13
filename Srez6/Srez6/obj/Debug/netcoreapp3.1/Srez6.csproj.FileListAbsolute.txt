@@ -1,0 +1,11 @@
+E:\EPAM Labs\Srez6\Srez6\Srez6\bin\Debug\netcoreapp3.1\Srez6.exe
+E:\EPAM Labs\Srez6\Srez6\Srez6\bin\Debug\netcoreapp3.1\Srez6.deps.json
+E:\EPAM Labs\Srez6\Srez6\Srez6\bin\Debug\netcoreapp3.1\Srez6.runtimeconfig.json
+E:\EPAM Labs\Srez6\Srez6\Srez6\bin\Debug\netcoreapp3.1\Srez6.runtimeconfig.dev.json
+E:\EPAM Labs\Srez6\Srez6\Srez6\bin\Debug\netcoreapp3.1\Srez6.dll
+E:\EPAM Labs\Srez6\Srez6\Srez6\bin\Debug\netcoreapp3.1\Srez6.pdb
+E:\EPAM Labs\Srez6\Srez6\Srez6\obj\Debug\netcoreapp3.1\Srez6.csprojAssemblyReference.cache
+E:\EPAM Labs\Srez6\Srez6\Srez6\obj\Debug\netcoreapp3.1\Srez6.AssemblyInfoInputs.cache
+E:\EPAM Labs\Srez6\Srez6\Srez6\obj\Debug\netcoreapp3.1\Srez6.AssemblyInfo.cs
+E:\EPAM Labs\Srez6\Srez6\Srez6\obj\Debug\netcoreapp3.1\Srez6.dll
+E:\EPAM Labs\Srez6\Srez6\Srez6\obj\Debug\netcoreapp3.1\Srez6.pdb
